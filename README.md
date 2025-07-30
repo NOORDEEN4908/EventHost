@@ -124,4 +124,8 @@ MIT
 
 ---
 
-Would you like this written to your main `README.md` file, or do you want to customize any section?
+<img width="1338" height="630" alt="image" src="https://github.com/user-attachments/assets/c9d09c13-63e2-459c-a52f-be1b071388c7" />
+<img width="1342" height="633" alt="image" src="https://github.com/user-attachments/assets/c802da16-14fa-44ae-812f-e694e98018f2" />
+<img width="1337" height="634" alt="image" src="https://github.com/user-attachments/assets/0e89dcbe-f91c-4566-a34e-3c7ffea32a0c" />
+
+
